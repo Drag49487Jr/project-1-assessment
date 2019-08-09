@@ -1,0 +1,20 @@
+body{
+    display:block;
+    justify-content:center;
+    margin:20vmin;
+}
+div{
+    font-size:30px;
+    margin-left:35vmin;
+}
+input{
+    font-size:40px;
+}
+main{
+    display:flex;
+}
+button:hover{
+    color:red;
+    border-color:black;
+    background-color:grey;
+}
